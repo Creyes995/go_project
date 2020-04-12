@@ -1,2 +1,2 @@
-# go_project
-Industrial Trends (CIS 249) project
+# golang_project
+Industrial Trends (CIS 249) project. 
